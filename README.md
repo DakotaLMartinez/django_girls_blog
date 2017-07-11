@@ -1,1 +1,1 @@
-"# django_girls_blog" 
+# django_girls_blog 
